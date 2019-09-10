@@ -3,3 +3,17 @@ body {
     background-attachment: fixed;
     background-image: url(images/bg.jpg);
 }
+main, header {
+    background-color: white;
+    width: 1020px;
+    margin: auto;
+}
+
+
+
+
+article {
+    font-size: 14px;
+    display: inline-block;
+    width: 33%;
+}
