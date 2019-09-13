@@ -78,8 +78,9 @@ article {
     padding-top: 60px;
     font-size: 14px;
     display: inline-block;
-    width: 33%;
+    width: 30%;
     padding-bottom: 60px;
+    margin-left: 25px;
 }
 
 article > p {
